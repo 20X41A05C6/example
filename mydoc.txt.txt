@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 helloo 
+=======
+
+this is for to check the git pull
+>>>>>>> a6eddae772bec54fb3ac5968b5a009d1d4a22b2b
+
+
+this is to push again after pull
+
+
